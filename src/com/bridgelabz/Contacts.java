@@ -1,5 +1,3 @@
-package com.bridgelabz;
-
 public class Contacts
 {
     private  String firstName;
